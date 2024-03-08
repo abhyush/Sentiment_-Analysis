@@ -20,3 +20,4 @@ When we talk about traditional neural networks, all the outputs and inputs are i
 
 All in all the Recurrent Neural Network - A neural network that is intentionally run multiple times, where parts of each run feed into the next run. Specifically, hidden layers from the previous run provide part of the input to the same hidden layer in the next run. Recurrent neural networks are particularly useful for evaluating sequences, so that the hidden layers can learn from previous runs of the neural network on earlier parts of the sequence.
 # Social_Media_Sentiment_Analysis
+# Social_Media_Sentiment_Analysis
